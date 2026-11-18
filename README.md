@@ -14,11 +14,11 @@
 
 Building intelligent systems, practical software, and automated workflows.
 
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+<a href="https://space-ship-lemon.vercel.app/">Portfolio</a>
 &nbsp;·&nbsp;
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<a href="https://www.linkedin.com/in/muhammad-ali-508378259/">LinkedIn</a>
 &nbsp;·&nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="mailto:alisumair2006@gmail.com">Email</a>
 
 </div>
 
